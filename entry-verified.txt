@@ -1,0 +1,1 @@
+In my defense, the deploy button was right there, and the confirmation dialog only asked if I was sure, and I was.
